@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Nguyen Hung Manh
+Build-Jdk: 11.0.9
+Implementation-Title: boot-oauth2-password-resource-server
+Implementation-Version: 0.0.1.SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
